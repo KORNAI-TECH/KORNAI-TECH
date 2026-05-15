@@ -34,9 +34,6 @@ I am a **"translator"** between complex code and business value. With **11+ year
 *   **Scalability:** Proven track record in managing large technical teams and complex sales cycles.
 *   **Efficiency:** Building AI agents that solve real-world operational pains.
 
-<br>
-
-> 🕵️‍♂️ **Nothingtham:** *Building automated solutions from the shadows, delivering clear value to the light.*
 
 ---
 
@@ -59,9 +56,6 @@ I am a **"translator"** between complex code and business value. With **11+ year
 *   **Масштабирование:** Опыт управления командами 50+ человек и проведения 15,000+ презентаций.
 *   **Продуктовый подход:** Создаю ИИ-агентов, решающих реальные боли бизнеса.
 
-<br>
-
-> 🎯 **Nothingtham:** *Создаю ИИ-автоматизации из тени, вывожу измеримые результаты на свет.*
 
 ---
 
@@ -70,3 +64,7 @@ I am a **"translator"** between complex code and business value. With **11+ year
 
 ---
 *“Goal: Building AI systems that drive business growth.”*
+
+<br>
+
+> **Nothingtham:** *Building automated solutions from the shadows, delivering clear value to the light.*
