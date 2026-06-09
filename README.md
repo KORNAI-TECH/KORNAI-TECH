@@ -2,13 +2,19 @@
 
 [🇷🇺 Перейти к русской версии](#russian-version)
 
-### 🤖 Technical Product Manager | AI Solution Sales | Python Builder
+### 🤖 Technical Product Manager | AI Solution Sales | Full-Stack Builder
 
 I am a **"translator"** between complex code and business value. With **11+ years in Enterprise sales** (deals up to 45M+ RUB) and a deep passion for AI, I build solutions that don't just work, but bring measurable ROI.
 
 ---
 
 ## 🚀 Featured Project
+### 1. [KORNAI.ru - LeadGen Ecosystem](kornai.ru)
+*A high-end automated sales funnel with real-time tracking.
+*   **Key Value:** Fully automated lead capturing with zero manual input, integrated with a real-time notification engine.
+*   **Tech:** React 19, Tailwind CSS 4.0, Supabase (PostgreSQL), Edge Functions (TypeScript/Deno).
+*   **Architecture:**  eveloped using Claude Code for rapid prototyping and high-quality refactoring.
+
 ### [AI Meeting Secretary](https://github.com/Nothingtham/AI-Business-Automations/tree/main/ai-meeting-secretary)
 *An intelligent Telegram ecosystem for automated business protocols.*
 *   **Key Value:** Saves ~45 mins of manual work per 1 hour of meeting.
@@ -45,6 +51,12 @@ I am a **"translator"** between complex code and business value. With **11+ year
 Я — **«переводчик»** со сложного технического языка на язык бизнес-ценности. Имея за плечами **11+ лет в Enterprise-продажах** (сделки до 45+ млн руб.) и страсть к технологиям, я создаю ИИ-решения, которые приносят измеримый результат.
 
 ## 🚀 Основной проект
+### 1. [KORNAI.ru - LeadGen Экосистема](kornai.ru)
+*Автоматизированная воронка продаж с глубокой интеграцией данных.
+*   **Ценность:** Полный цикл захвата лида без участия человека с мгновенным уведомлением в Telegram.
+*   **Стек:** React 19, Tailwind CSS 4.0, Supabase (PostgreSQL), Edge Functions.
+*   **Особенность:** Разработано с использованием Claude Code для ускорения цикла разработки и качества кода.
+
 ### [AI Meeting Secretary (ИИ-Секретарь)](https://github.com/Nothingtham/AI-Business-Automations/tree/main/ai-meeting-secretary)
 *Интеллектуальная экосистема в Telegram для автоматического протоколирования встреч.*
 *   **Ценность:** Экономит ~45 минут рутины на каждый час совещания.
