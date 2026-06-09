@@ -26,20 +26,20 @@ A high-end automated sales funnel with real-time tracking.
 
 Intelligent Telegram ecosystem for automated business protocols.
 
-  - Key Value: Saves ~45 mins of manual work per 1 hour of meeting.
+  - Key Value: Saves 45 mins of manual work per 1 hour of meeting.
   - Tech: Python (aiogram), Hybrid AI (Groq Whisper V3 + Llama 3.3 + Gemini
     Latest).
   - Architecture: Fallback system between AI providers to ensure 100% uptime.
 
 🛠 My Toolbox
 
-| Category             | Tools & Technologies                                                                                                                                                                                                                                             |
-| :------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AI-Augmented Dev** | **Claude Code**, Cursor, Gemini Latest, OpenAI o1/o3                                                                                                                                                                                                             |
-| **Frontend**         | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) **TypeScript**                        |
-| **Backend & Cloud**  | ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) **Edge Functions (Deno), Vercel** |
-| **AI/ML**            | **Agentic Systems (LangGraph), RAG Architectures, Multi-LLM Orchestration**                                                                                                                                                                                      |
-| **Languages**        | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **TypeScript, SQL**                                                                                                                                       |
+| Category             | Tools & Technologies                                                    |
+| :------------------- | :---------------------------------------------------------------------- |
+| **AI-Augmented Dev** | **Claude Code**, Cursor, Gemini Latest, OpenAI o1/o3                    |
+| **Frontend**         | React 19, Tailwind CSS 4.0, TypeScript, Lucide                          |
+| **Backend & Cloud**  | Supabase, PostgreSQL, Edge Functions (Deno), Vercel                     |
+| **AI/ML**            | Agentic Systems (LangGraph), RAG Architectures, Multi-LLM Orchestration |
+| **Languages**        | Python, TypeScript, SQL                                                 |
 
 📈 Value Proposition
 
