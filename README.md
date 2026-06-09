@@ -23,6 +23,7 @@ I bridge the gap between **high-level business strategy (ROI, EBITDA)** and **mo
 
 ---
 
+<a name="russian-version"></a>
 ## 🛠 Technical Stack & Toolbox
 
 | Category | Tools & Technologies |
@@ -35,7 +36,6 @@ I bridge the gap between **high-level business strategy (ROI, EBITDA)** and **mo
 
 ---
 
-<a name="russian-version"></a>
 # Привет! Я Алексей 🇷🇺
 
 ### 🤖 AI Архитектор | Технический продакт-менеджер | Full-Stack разработчик
