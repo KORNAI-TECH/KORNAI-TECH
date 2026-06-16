@@ -38,13 +38,34 @@ I bridge the gap between **high-level strategy (ROI, EBITDA)** and **modern AI s
 
 ---
 
-## 🛠 Technical Stack & Toolbox
+---
 
-| 🧠 AI & DATA | 💻 FRONTEND & LOGIC | ☁️ INFRASTRUCTURE |
-| :--- | :--- | :--- |
-| ⚡️ **LLMs:** `Llama 3.3`, `Gemini`, `Groq` | ⚛️ **Web:** `React 19`, `Tailwind 4.0` | 🚀 **Cloud:** `Vercel`, `Supabase` |
-| 🛠 **Methods:** `RAG`, `Agentic Flows` | 🏗 **Dev:** `TypeScript`, `Python`, `SQL` | 🛡 **Security:** `Cloudflare`, `Proxy` |
-| 🧰 **Tools:** `Claude Code`, `NotebookLM` | 🎨 **UI/UX:** `Framer Motion`, `Spline` | 📈 **SEO:** `Semantic HTML`, `JSON-LD` |
+## 🛠 Technical Stack & Strategy
+
+<table width="100%" border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 Intelligent Core</h3>
+      <b>Models:</b> Llama 3.3, Gemini, Groq, Whisper<br>
+      <b>Frameworks:</b> RAG, Agentic Workflows<br>
+      <b>AI Tools:</b> Claude Code, NotebookLM
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚛️ Modern Frontend</h3>
+      <b>Frameworks:</b> React 19, Tailwind 4.0<br>
+      <b>Languages:</b> TypeScript, Python, SQL<br>
+      <b>Experience:</b> Framer Motion, Spline
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁️ Cloud & SEO</h3>
+      <b>Backend:</b> Supabase, Vercel<br>
+      <b>Security:</b> Cloudflare, Proxy<br>
+      <b>Growth:</b> Semantic HTML, JSON-LD
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
