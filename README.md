@@ -15,7 +15,7 @@ I bridge the gap between **high-level strategy (ROI, EBITDA)** and **modern AI s
     *   **Value:** Full-cycle lead capture & qualification without human intervention.
     *   **Stack:** React 19, Tailwind 4.0, Supabase, Edge Functions.
     *   **Infra:** Cloudflare + Vercel. Optimized by Apple SEO standards (LCP < 1.0s, SEO 100/100).
-*   **[AI Meeting Secretary](https://github.com/Nothingtham/AI-Business-Automations)**
+*   **[AI Meeting Secretary](https://github.com/KORNAI/AI-Business-Automations)**
     *   **Value:** Saves 45 minutes of manual work per 1 hour of meeting.
     *   **Tech:** Python (aiogram), Hybrid AI (Groq Whisper V3 + Llama 3.3 + Gemini).
 
@@ -32,7 +32,7 @@ I bridge the gap between **high-level strategy (ROI, EBITDA)** and **modern AI s
     *   **Ценность:** Полный цикл захвата и квалификации лида без участия человека.
     *   **Стек:** React 19, Tailwind 4.0, Supabase, Edge Functions.
     *   **Инфраструктура:** Cloudflare + Vercel. Оптимизировано по стандартам SEO (LCP < 1.0s, SEO 100/100).
-*   **[AI Meeting Secretary (ИИ-Секретарь)](https://github.com/Nothingtham/AI-Business-Automations)**
+*   **[AI Meeting Secretary (ИИ-Секретарь)](https://github.com/KORNAI/AI-Business-Automations)**
     *   **Ценность:** Экономия 45 минут времени на каждый час совещания.
     *   **Технологии:** Python (aiogram), гибридный ИИ (Groq Whisper V3 + Llama 3.3).
 
