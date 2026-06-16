@@ -1,16 +1,27 @@
-<h1 align="left">
-  <img src="https://kornai.ru/logo.png" width="50" vertical-align="middle" />
-  <span>KORNAI | AI Solution Architect</span>
-</h1>
+<div align="center">
+  <img src="https://kornai.ru/logo.png" width="120" alt="KORNAI AI Solution Architect" />
+  
+  <br />
 
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em>Engineering the Future of Business Profit</em>
-</p>
+  # KORN<span style="color: #d1fe01;">AI</span>
+  
+  ### AI Solution Architect | Technical Product Manager
+  
+  **Engineering the Future of Business Profit**
 
-<p align="left">
-  <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
-</p>
+  <p align="center">
+    <a href="https://kornai.ru">
+      <img src="https://img.shields.io/badge/Visit_Website-d1fe01?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    </a>
+    <a href="https://t.me/AlexeiKornienko">
+      <img src="https://img.shields.io/badge/Contact_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="#english-version">🇺🇸 English Version</a> • <a href="#russian-version">🇷🇺 Русская версия</a>
+  </p>
+</div>
 
 ---
 
