@@ -1,8 +1,6 @@
 <p align="left">
-  <img src="https://kornai.ru/logo.png" width="90" valign="middle" align="left" style="margin-right: 20px;" />
-  <b><font size="6">KORNAI | AI Solution Architect</font></b>
-  <br>
-  <i><font size="4">Engineering the Future of Business Profit</font></i>
+  <img src="https://kornai.ru/logo.png" width="60" valign="middle" align="left" style="margin-right: 20px;" />
+  <b style="font-family: Inter, sans-serif;"><font size="6">KORNAI | AI Solution Architect</font></b>
 </p>
 <br clear="left"/>
 
