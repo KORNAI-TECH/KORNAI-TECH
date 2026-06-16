@@ -38,38 +38,19 @@ I bridge the gap between **high-level strategy (ROI, EBITDA)** and **modern AI s
 
 ---
 
-## 🛠 Технологический стек и экспертиза
+## 🛠 Technical Stack & Toolbox
 
-<table width="100%" border="0">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🧠 AI & DATA</h4>
-      <ul>
-        <li><b>LLMs:</b> Llama 3.3, Gemini, Groq</li>
-        <li><b>Methods:</b> RAG, Agentic Flows</li>
-        <li><b>Tools:</b> Claude Code, NotebookLM</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚛️ DEVELOPMENT</h4>
-      <ul>
-        <li><b>Frontend:</b> React 19, Tailwind 4.0</li>
-        <li><b>Logic:</b> TypeScript, Python, SQL</li>
-        <li><b>UX/UI:</b> Framer Motion, Spline</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>☁️ INFRA & GROWTH</h4>
-      <ul>
-        <li><b>Cloud:</b> Vercel, Supabase</li>
-        <li><b>Security:</b> Cloudflare, On-premise</li>
-        <li><b>SEO:</b> Semantic HTML, JSON-LD</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & Models** | ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge&logo=lightning&logoColor=white) ![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **AI Dev & Methods** | ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-334155?style=for-the-badge&logo=probot&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-475569?style=for-the-badge&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-1e293b?style=for-the-badge&logo=pinecone&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend & Cloud** | ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Beget](https://img.shields.io/badge/Beget-005696?style=for-the-badge&logo=internetexplorer&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Business** | **ROI/EBITDA Analysis, GTM Strategy, Team Lead (50+), Enterprise Sales** |
 
 ---
+
 
 ## 📫 Reach me at / Связь:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexeiKornienko) 
