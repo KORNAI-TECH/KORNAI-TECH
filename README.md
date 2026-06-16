@@ -1,4 +1,4 @@
-  <img src="https://kornai.ru/logo.webp" width="40" height="40" valign="middle"> KORNAI | AI Solution Architect
+  <img src="https://kornai.ru/logo.png" width="40" height="40" valign="middle"> KORNAI | AI Solution Architect
 
 [🇺🇸 English Version](#english-version) | [🇷🇺 Русская версия](#russian-version)
 
