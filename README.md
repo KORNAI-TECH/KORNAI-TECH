@@ -1,8 +1,13 @@
-<p align="left">
-  <img src="https://kornai.ru/logo.png" width="60" valign="middle" align="left" style="margin-right: 20px;" />
-  <b style="font-family: Inter, sans-serif;"><font size="6">KORNAI | AI Solution Architect</font></b>
-</p>
-<br clear="left"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="70" style="border: none; padding: 0;">
+      <img src="https://kornai.ru/logo.png" width="70" alt="KORNAI AI Solution Architect Logo">
+    </td>
+    <td valign="middle" style="border: none; padding-left: 20px;">
+      <h2 style="border: none; margin: 0; padding: 0;">KORNAI | AI Solution Architect</h2>
+    </td>
+  </tr>
+</table>
 
 ---
 <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
